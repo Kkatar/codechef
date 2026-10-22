@@ -1,6 +1,8 @@
-class Codechef {
-    public static void main(String[] args) {
-        System.out.println(12*9);
-        
-    }
+class Codechef
+{
+	public static void main (String[] args)
+	{
+        // Write your code here
+      System.out.println("Learn Coding on CodeChef");
+	}
 }
