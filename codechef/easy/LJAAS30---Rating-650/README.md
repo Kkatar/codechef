@@ -27,12 +27,13 @@ Kelvin - 298.5
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-22T18:42:21.768Z  
+**Submitted:** 2026-11-03T08:28:18.902Z  
 
 ```java
 public class Main {
     public static void main(String[] args) {
         // Your code goes here
+        
         double temperature=25.5;
         System.out.println("Celsius-25.5");
         System.out.println("Kelvin-298.5");
