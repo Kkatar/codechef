@@ -61,7 +61,7 @@ Chef will have $125$ rupees, and he can buy $2$ popcorn buckets for $100$ rupees
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-03T08:45:33.080Z  
+**Submitted:** 2026-11-10T13:58:26.770Z  
 
 ```java
 import java.util.*;
