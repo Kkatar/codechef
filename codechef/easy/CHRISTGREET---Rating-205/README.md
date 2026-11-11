@@ -58,7 +58,7 @@ We print `ORDINARY` since day is not $25$.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-11T18:51:30.734Z  
+**Submitted:** 2026-11-11T18:51:42.846Z  
 
 ```java
 import java.util.*;
