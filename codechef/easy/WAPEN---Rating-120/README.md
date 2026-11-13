@@ -64,7 +64,7 @@ So, the total time penalty is just $58$.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-13T16:40:19.458Z  
+**Submitted:** 2026-11-13T16:40:37.503Z  
 
 ```py
 # cook your dish here
